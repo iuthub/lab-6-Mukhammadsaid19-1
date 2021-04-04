@@ -24,3 +24,12 @@ input[type="submit"] {
     font-size: 2em;
     width: 100%;
 }
+
+.hidden-error {
+    display:none;
+}
+
+.error {
+    color: firebrick;
+    font-style: italic;
+}
